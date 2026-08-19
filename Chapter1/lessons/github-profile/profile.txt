@@ -1,6 +1,6 @@
-Name:
-Grade:
-Favorite Programming Language:
-Favorite Thing About Computer Science:
-Something I Am Good At:
-Something I Want To Learn:
+Name: Neel Gulati
+Grade: 10
+Favorite Programming Language: Python
+Favorite Thing About Computer Science: Coding
+Something I Am Good At: Science
+Something I Want To Learn: Java
